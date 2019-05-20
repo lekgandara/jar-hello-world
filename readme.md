@@ -43,7 +43,9 @@ Compile.
 
     javac Main.java
 
-Teste.
+Teste. (necessário voltar um diretório)
+
+cd ..
 
     java foo.Main a b c
 
